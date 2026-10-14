@@ -1,0 +1,19 @@
+TINYFISH_API_KEY: set
+
+===== agent  (33.3s)  type=AgentRunResponse =====
+{
+  "status": "COMPLETED",
+  "run_id": "41b2f85a-4f03-440b-8a2b-042cee313368",
+  "result": {
+    "company_name": "Zerodha Broking Limited",
+    "sebi_registration_numbers": [
+      "INZ000031633",
+      "IN-DP-431-2019"
+    ]
+  },
+  "error": null,
+  "num_of_steps": 3,
+  "started_at": "2026-10-14T12:49:28.464000Z",
+  "finished_at": "2026-10-14T12:49:58.586000Z"
+}
+status == COMPLETED: True

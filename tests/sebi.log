@@ -1,0 +1,86 @@
+SEBI 97.8 s
+{
+ "found": true,
+ "matches": [
+  {
+   "name": "ZERODHA BROKING LIMITED",
+   "registration_no": "INZ000031633",
+   "category": "Stock Broker (equity)",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+  },
+  {
+   "name": "ZERODHA BROKING LIMITED",
+   "registration_no": "INZ000031633",
+   "category": "Stock Broker (equity)",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+  },
+  {
+   "name": "ZERODHA BROKING LIMITED",
+   "registration_no": "INZ000031633",
+   "category": "Stock Broker (equity)",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+  },
+  {
+   "name": "ZERODHA BROKING LIMITED",
+   "registration_no": "INZ000031633",
+   "category": "Stock Broker (equity)",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+  },
+  {
+   "name": "ZERODHA BROKING LIMITED",
+   "registration_no": "INZ000031633",
+   "category": "Stock Broker (equity)",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+  }
+ ],
+ "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+ "searched": [
+  "Stock Broker (equity)",
+  "Investment Adviser"
+ ],
+ "failed": [],
+ "term": "zerodha",
+ "per_category": {
+  "30": {
+   "matches": [
+    {
+     "name": "ZERODHA BROKING LIMITED",
+     "registration_no": "INZ000031633"
+    },
+    {
+     "name": "ZERODHA BROKING LIMITED",
+     "registration_no": "INZ000031633"
+    },
+    {
+     "name": "ZERODHA BROKING LIMITED",
+     "registration_no": "INZ000031633"
+    },
+    {
+     "name": "ZERODHA BROKING LIMITED",
+     "registration_no": "INZ000031633"
+    },
+    {
+     "name": "ZERODHA BROKING LIMITED",
+     "registration_no": "INZ000031633"
+    }
+   ],
+   "no_records": false,
+   "blocked_by_captcha": false,
+   "_run_id": "8a74682e-235b-4029-b0fd-a36319f77591",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+   "status": "ok",
+   "seconds": 96.7
+  },
+  "13": {
+   "matches": [],
+   "no_records": true,
+   "blocked_by_captcha": false,
+   "_run_id": "6dd91f69-e493-4fc9-9f68-6d67760b84b6",
+   "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13",
+   "status": "ok",
+   "seconds": 97.8
+  }
+ },
+ "status": "ok",
+ "seconds": 97.8
+}

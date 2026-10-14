@@ -1,0 +1,228 @@
+{
+  "name": "Zerodha",
+  "url": "https://zerodha.com/",
+  "url_found_by_search": true,
+  "risk": 0,
+  "verdict": "🟢 LOOKS LEGIT",
+  "evidence": [
+    {
+      "severity": "🟢",
+      "check": "RBI Alert List",
+      "finding": "Not on RBI Alert List (95 entries checked)",
+      "points": 0,
+      "source": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235"
+    },
+    {
+      "severity": "🟢",
+      "check": "SEBI registry",
+      "finding": "SEBI registered Stock Broker (equity): ZERODHA BROKING LIMITED (INZ000031633)",
+      "points": -40,
+      "source": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+    },
+    {
+      "severity": "🟢",
+      "check": "Site inspection",
+      "finding": "No guaranteed returns, upfront fees or chat-only contact found",
+      "points": 0,
+      "source": "https://zerodha.com/"
+    },
+    {
+      "severity": "🟢",
+      "check": "Domain age (WHOIS)",
+      "finding": "Domain is 16 years old (registered 2010-02-17)",
+      "points": 0,
+      "source": "https://www.whois.com/whois/zerodha.com"
+    },
+    {
+      "severity": "🟡",
+      "check": "Fraud reports",
+      "finding": "6 fraud/complaint mentions found online",
+      "points": 18,
+      "source": "https://www.linkedin.com/posts/shivangi-khanna-42737b273_leadershipinfinance-investorprotection-activity-7392441086243274752-hZ71"
+    }
+  ],
+  "reports": [
+    {
+      "title": "🌐 “Zerodha Scam”? | Shivangi Khanna",
+      "url": "https://www.linkedin.com/posts/shivangi-khanna-42737b273_leadershipinfinance-investorprotection-activity-7392441086243274752-hZ71",
+      "snippet": "tried to withdraw over ₹18 crore from his Zerodha account and hit the daily withdrawal limit of ₹5 crore. Frustrated, he called it a “ scam ” on ...",
+      "site": "www.linkedin.com",
+      "date": null
+    },
+    {
+      "title": "\"Zerodha Scam\": Investor Complains Of Rs 5 Crore ...",
+      "url": "https://www.ndtv.com/india-news/investor-alleges-zerodha-stopped-him-from-withdrawing-funds-ceo-nithin-kamath-responds-9571096",
+      "snippet": "4 Nov 2025 — “The Zerodha scam ! They don't allow me to withdraw my own money from their account, saying the daily limit for withdrawal is Rs 5 crores. They ... Read more",
+      "site": "www.ndtv.com",
+      "date": null
+    },
+    {
+      "title": "'Hi Dr': Nithin Kamath responds to Mumbai Doctor's claim about 'The Zerodha scam'",
+      "url": "https://m.economictimes.com/news/new-updates/hi-dr-nithin-kamath-responds-to-mumbai-doctors-claim-about-the-zerodha-scam/articleshow/125074689.cms",
+      "snippet": "He claimed the system blocked him from withdrawing above ₹5 crore in a single day and accused the platform of holding on to investor money. He...",
+      "site": "m.economictimes.com",
+      "date": "4 Nov 2025"
+    },
+    {
+      "title": "'Zerodha scam': Investor flags ₹5-cr withdrawal rule; CEO Kamath responds",
+      "url": "https://www.business-standard.com/companies/news/zerodha-scam-allegation-nithin-kamath-response-5-crore-withdrawal-limit-125110400686_1.html",
+      "snippet": "'Zerodha scam': Investor flags ₹5-cr withdrawal rule; CEO Kamath responds · Investor Aniruddha Malpani alleged Zerodha blocked his ₹42.9 crore...",
+      "site": "www.business-standard.com",
+      "date": "4 Nov 2025"
+    },
+    {
+      "title": "Zerodha Scam? Nithin Kamath Responds To IVF Specialist Dr Anirudha Malpani on Rs 5 Crore Withdrawal Limit",
+      "url": "https://www.goodreturns.in/news/zerodha-scam-nithin-kamath-responds-ivf-specialist-dr-anirudha-malpani-rs-5-crore-withdrawal-limit-1467719.html",
+      "snippet": "Dr Anirudha Malpani Zerodha Tweet: In the afternoon of November 4th, Malpani tweeted on X with a start \"The Zerodha Scam\". \"They don't allow me...",
+      "site": "www.goodreturns.in",
+      "date": "5 Nov 2025"
+    },
+    {
+      "title": "'When your complaint involves ₹5 crore, Nithin himself replies': Zerodha CEO wins praise for handling withdrawal row",
+      "url": "https://www.livemint.com/news/trends/when-your-complaint-involves-5-crore-nithin-himself-replies-zerodha-ceo-wins-praise-for-handling-withdrawal-row-11762306630104.html",
+      "snippet": "A ₹5 crore withdrawal complaint by investor Dr Aniruddha Malpani led to a viral exchange with Zerodha CEO Nithin Kamath, who personally...",
+      "site": "www.livemint.com",
+      "date": "5 Nov 2025"
+    }
+  ],
+  "seconds": 133.8,
+  "checked_at": "2026-10-14T18:57:42",
+  "raw": {
+    "resolve": {
+      "url": "https://zerodha.com/",
+      "source": "https://zerodha.com/",
+      "title": "Zerodha: Online brokerage platform for stock trading & investing",
+      "status": "ok",
+      "seconds": 1.2
+    },
+    "site": {
+      "red_flags": [],
+      "company_name": "Zerodha Broking Limited",
+      "contact_channels": [
+        "email",
+        "whatsapp",
+        "telegram",
+        "phone"
+      ],
+      "promised_returns": "None - The platform explicitly states it does not give stock tips, does not authorize anyone to trade on behalf of others, and does not offer guaranteed returns or daily income schemes.",
+      "blocked_by_captcha": false,
+      "guaranteed_returns": false,
+      "registration_numbers": [
+        "INZ000031633",
+        "IN-DP-431-2019",
+        "U65929KA2018PLC116815"
+      ],
+      "claimed_registrations": [
+        "SEBI Registration no.: INZ000031633 (Securities Broking)",
+        "CDSL Depository Services SEBI Registration no.: IN-DP-431-2019",
+        "CIN: U65929KA2018PLC116815",
+        "Member of NSE, BSE, MCX & MSEI"
+      ],
+      "upfront_payment_requested": false,
+      "_run_id": "803cae48-aba6-433f-baa3-35b3e1cedf7b",
+      "source": "https://zerodha.com/",
+      "status": "ok",
+      "seconds": 132.5
+    },
+    "reports": {
+      "reports": [
+        {
+          "title": "🌐 “Zerodha Scam”? | Shivangi Khanna",
+          "url": "https://www.linkedin.com/posts/shivangi-khanna-42737b273_leadershipinfinance-investorprotection-activity-7392441086243274752-hZ71",
+          "snippet": "tried to withdraw over ₹18 crore from his Zerodha account and hit the daily withdrawal limit of ₹5 crore. Frustrated, he called it a “ scam ” on ...",
+          "site": "www.linkedin.com",
+          "date": null
+        },
+        {
+          "title": "\"Zerodha Scam\": Investor Complains Of Rs 5 Crore ...",
+          "url": "https://www.ndtv.com/india-news/investor-alleges-zerodha-stopped-him-from-withdrawing-funds-ceo-nithin-kamath-responds-9571096",
+          "snippet": "4 Nov 2025 — “The Zerodha scam ! They don't allow me to withdraw my own money from their account, saying the daily limit for withdrawal is Rs 5 crores. They ... Read more",
+          "site": "www.ndtv.com",
+          "date": null
+        },
+        {
+          "title": "'Hi Dr': Nithin Kamath responds to Mumbai Doctor's claim about 'The Zerodha scam'",
+          "url": "https://m.economictimes.com/news/new-updates/hi-dr-nithin-kamath-responds-to-mumbai-doctors-claim-about-the-zerodha-scam/articleshow/125074689.cms",
+          "snippet": "He claimed the system blocked him from withdrawing above ₹5 crore in a single day and accused the platform of holding on to investor money. He...",
+          "site": "m.economictimes.com",
+          "date": "4 Nov 2025"
+        },
+        {
+          "title": "'Zerodha scam': Investor flags ₹5-cr withdrawal rule; CEO Kamath responds",
+          "url": "https://www.business-standard.com/companies/news/zerodha-scam-allegation-nithin-kamath-response-5-crore-withdrawal-limit-125110400686_1.html",
+          "snippet": "'Zerodha scam': Investor flags ₹5-cr withdrawal rule; CEO Kamath responds · Investor Aniruddha Malpani alleged Zerodha blocked his ₹42.9 crore...",
+          "site": "www.business-standard.com",
+          "date": "4 Nov 2025"
+        },
+        {
+          "title": "Zerodha Scam? Nithin Kamath Responds To IVF Specialist Dr Anirudha Malpani on Rs 5 Crore Withdrawal Limit",
+          "url": "https://www.goodreturns.in/news/zerodha-scam-nithin-kamath-responds-ivf-specialist-dr-anirudha-malpani-rs-5-crore-withdrawal-limit-1467719.html",
+          "snippet": "Dr Anirudha Malpani Zerodha Tweet: In the afternoon of November 4th, Malpani tweeted on X with a start \"The Zerodha Scam\". \"They don't allow me...",
+          "site": "www.goodreturns.in",
+          "date": "5 Nov 2025"
+        },
+        {
+          "title": "'When your complaint involves ₹5 crore, Nithin himself replies': Zerodha CEO wins praise for handling withdrawal row",
+          "url": "https://www.livemint.com/news/trends/when-your-complaint-involves-5-crore-nithin-himself-replies-zerodha-ceo-wins-praise-for-handling-withdrawal-row-11762306630104.html",
+          "snippet": "A ₹5 crore withdrawal complaint by investor Dr Aniruddha Malpani led to a viral exchange with Zerodha CEO Nithin Kamath, who personally...",
+          "site": "www.livemint.com",
+          "date": "5 Nov 2025"
+        }
+      ],
+      "status": "ok",
+      "seconds": 1.7
+    },
+    "whois": {
+      "domain": "zerodha.com",
+      "days": 6083,
+      "created": "2010-02-17",
+      "source": "https://www.whois.com/whois/zerodha.com",
+      "status": "ok",
+      "seconds": 1.7
+    },
+    "rbi": {
+      "listed": false,
+      "matches": [],
+      "entries": 95,
+      "page_url": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235",
+      "found_via": "search",
+      "status": "ok",
+      "seconds": 2.1
+    },
+    "sebi": {
+      "term": "zerodha",
+      "searched": [
+        "Stock Broker (equity)"
+      ],
+      "failed": [],
+      "per_category": {
+        "30": {
+          "matches": [
+            {
+              "name": "ZERODHA BROKING LIMITED",
+              "registration_no": "INZ000031633"
+            }
+          ],
+          "no_records": false,
+          "blocked_by_captcha": false,
+          "_run_id": "51adf44d-43bb-484f-889b-e5767a515bfc",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+          "status": "ok",
+          "seconds": 86.2
+        }
+      },
+      "matches": [
+        {
+          "name": "ZERODHA BROKING LIMITED",
+          "registration_no": "INZ000031633",
+          "category": "Stock Broker (equity)",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+        }
+      ],
+      "found": true,
+      "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+      "status": "ok",
+      "seconds": 86.2
+    }
+  }
+}

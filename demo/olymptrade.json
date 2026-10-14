@@ -1,0 +1,244 @@
+{
+  "name": "Olymp Trade",
+  "url": "https://olymptrade.com",
+  "url_found_by_search": false,
+  "risk": 100,
+  "verdict": "🔴 LIKELY SCAM",
+  "evidence": [
+    {
+      "severity": "🔴",
+      "check": "RBI Alert List",
+      "finding": "On RBI Alert List of unauthorised forex platforms: 'Olymp Trade' (domain olymptrade.com is listed)",
+      "points": 70,
+      "source": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235"
+    },
+    {
+      "severity": "🟡",
+      "check": "SEBI registry",
+      "finding": "Not found among SEBI-registered Stock Broker (equity) / Investment Advisers",
+      "points": 15,
+      "source": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+    },
+    {
+      "severity": "🔴",
+      "check": "Site inspection",
+      "finding": "Asks for an upfront deposit / registration fee",
+      "points": 15,
+      "source": "https://olymptrade.com"
+    },
+    {
+      "severity": "🟡",
+      "check": "Site inspection",
+      "finding": "Red flag: Claims of 132,923,696 registered users (potentially inflated)",
+      "points": 5,
+      "source": "https://olymptrade.com"
+    },
+    {
+      "severity": "🟡",
+      "check": "Site inspection",
+      "finding": "Red flag: Registered in offshore jurisdictions with weak regulation (Vanuatu, St. Vincent and the Grenadines)",
+      "points": 5,
+      "source": "https://olymptrade.com"
+    },
+    {
+      "severity": "🟡",
+      "check": "Site inspection",
+      "finding": "Red flag: Promotes a 112% deposit bonus to incentivize larger deposits",
+      "points": 5,
+      "source": "https://olymptrade.com"
+    },
+    {
+      "severity": "🟢",
+      "check": "Domain age (WHOIS)",
+      "finding": "Domain is 12 years old (registered 2014-04-14)",
+      "points": 0,
+      "source": "https://www.whois.com/whois/olymptrade.com"
+    },
+    {
+      "severity": "🔴",
+      "check": "Fraud reports",
+      "finding": "5 fraud/complaint mentions found online",
+      "points": 25,
+      "source": "https://www.reddit.com/r/IndianStockMarket/comments/1blsmvn/olymp_trade_reviewopinions/"
+    }
+  ],
+  "reports": [
+    {
+      "title": "Olymp trade review/opinions : r/IndianStockMarket",
+      "url": "https://www.reddit.com/r/IndianStockMarket/comments/1blsmvn/olymp_trade_reviewopinions/",
+      "snippet": "Olymp Trade is a scam . I've seen a lot of complaints that olymp trade blocks account when you make big withdrawal or get too profitable it's ...",
+      "site": "www.reddit.com",
+      "date": null
+    },
+    {
+      "title": "Olymp Trade",
+      "url": "https://financialcommission.org/olymp-trade/",
+      "snippet": "Complaints File a Complaint/Dispute. Scam ALERTS ・ €20,000 per complaint ・ +852 5803 3897 info@financialcommission.org complaints@financialcommission.org",
+      "site": "financialcommission.org",
+      "date": null
+    },
+    {
+      "title": "Is Olymp Trade safe or a scam broker?",
+      "url": "https://brokerchooser.com/safety/olymp-trade-broker-safe-or-scam",
+      "snippet": "8 Sept 2026 — Olymp Trade is not a safe and trusted choice by Broker Chooser. Our legal experts explain regulatory and safety info.",
+      "site": "brokerchooser.com",
+      "date": null
+    },
+    {
+      "title": "Olymp Trade Read Customer Complaints and Reviews",
+      "url": "https://www.sikayetvar.com/en/olymp-trade-us",
+      "snippet": "Complaint Olymp Trade flagged my account for fraud without proof — how can I appeal this decision? 1 Complaint Olymp Trade closed my trades at wrong prices",
+      "site": "www.sikayetvar.com",
+      "date": null
+    },
+    {
+      "title": "Olymp Trade review: Is it a legit or scam forex and binary ...",
+      "url": "https://www.forexpeacearmy.com/forex-reviews/13498/olymptrade-review",
+      "snippet": "4 Sept 2026 — ⚠️SCAM WARNING: Olymp Trade unlawfully took my 5,029.83 USDT . they maliciously locked my total balance. executed a total exit-scam. Olymp Trade ...",
+      "site": "www.forexpeacearmy.com",
+      "date": null
+    }
+  ],
+  "seconds": 111.9,
+  "checked_at": "2026-10-14T18:55:28",
+  "raw": {
+    "resolve": null,
+    "site": {
+      "red_flags": [
+        "Claims of 132,923,696 registered users (potentially inflated)",
+        "Registered in offshore jurisdictions with weak regulation (Vanuatu, St. Vincent and the Grenadines)",
+        "Promotes a 112% deposit bonus to incentivize larger deposits",
+        "Uses high-pressure marketing tactics ('Start now for $0', 'Start trading confidently')",
+        "$10 minimum deposit required to start trading (upfront cost)"
+      ],
+      "company_name": "Olymptrade (Aollikus Limited)",
+      "contact_channels": [
+        "telegram",
+        "email",
+        "phone",
+        "contact_form"
+      ],
+      "promised_returns": "",
+      "blocked_by_captcha": false,
+      "guaranteed_returns": false,
+      "registration_numbers": [
+        "Aollikus Limited: company number 40131 (Vanuatu)",
+        "Saledo Global LLC: registered in Kingstown, St. Vincent and the Grenadines, P.O. Box 2897",
+        "VISEPOINT LIMITED: registration No. C 94716 (Malta)",
+        "MARTIQUE LIMITED: registration No. HE 43318 (Cyprus)"
+      ],
+      "claimed_registrations": [
+        "132,923,696 registered users",
+        "over 100M users",
+        "12 years of operation (since 2014)",
+        "operates in 130+ countries",
+        "1M+ daily transactions"
+      ],
+      "upfront_payment_requested": true,
+      "_run_id": "ae63a5e1-4ae4-4b37-a347-069477a456b4",
+      "source": "https://olymptrade.com",
+      "status": "ok",
+      "seconds": 111.9
+    },
+    "whois": {
+      "domain": "olymptrade.com",
+      "days": 4566,
+      "created": "2014-04-14",
+      "source": "https://www.whois.com/whois/olymptrade.com",
+      "status": "ok",
+      "seconds": 1.1
+    },
+    "reports": {
+      "reports": [
+        {
+          "title": "Olymp trade review/opinions : r/IndianStockMarket",
+          "url": "https://www.reddit.com/r/IndianStockMarket/comments/1blsmvn/olymp_trade_reviewopinions/",
+          "snippet": "Olymp Trade is a scam . I've seen a lot of complaints that olymp trade blocks account when you make big withdrawal or get too profitable it's ...",
+          "site": "www.reddit.com",
+          "date": null
+        },
+        {
+          "title": "Olymp Trade",
+          "url": "https://financialcommission.org/olymp-trade/",
+          "snippet": "Complaints File a Complaint/Dispute. Scam ALERTS ・ €20,000 per complaint ・ +852 5803 3897 info@financialcommission.org complaints@financialcommission.org",
+          "site": "financialcommission.org",
+          "date": null
+        },
+        {
+          "title": "Is Olymp Trade safe or a scam broker?",
+          "url": "https://brokerchooser.com/safety/olymp-trade-broker-safe-or-scam",
+          "snippet": "8 Sept 2026 — Olymp Trade is not a safe and trusted choice by Broker Chooser. Our legal experts explain regulatory and safety info.",
+          "site": "brokerchooser.com",
+          "date": null
+        },
+        {
+          "title": "Olymp Trade Read Customer Complaints and Reviews",
+          "url": "https://www.sikayetvar.com/en/olymp-trade-us",
+          "snippet": "Complaint Olymp Trade flagged my account for fraud without proof — how can I appeal this decision? 1 Complaint Olymp Trade closed my trades at wrong prices",
+          "site": "www.sikayetvar.com",
+          "date": null
+        },
+        {
+          "title": "Olymp Trade review: Is it a legit or scam forex and binary ...",
+          "url": "https://www.forexpeacearmy.com/forex-reviews/13498/olymptrade-review",
+          "snippet": "4 Sept 2026 — ⚠️SCAM WARNING: Olymp Trade unlawfully took my 5,029.83 USDT . they maliciously locked my total balance. executed a total exit-scam. Olymp Trade ...",
+          "site": "www.forexpeacearmy.com",
+          "date": null
+        }
+      ],
+      "status": "ok",
+      "seconds": 1.7
+    },
+    "rbi": {
+      "listed": true,
+      "matches": [
+        {
+          "sr": 28,
+          "name": "Olymp Trade",
+          "domains": [
+            "olymptrade.com"
+          ],
+          "why": "domain olymptrade.com is listed"
+        }
+      ],
+      "entries": 95,
+      "page_url": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235",
+      "found_via": "search",
+      "status": "ok",
+      "seconds": 2.1
+    },
+    "sebi": {
+      "term": "olymp",
+      "searched": [
+        "Stock Broker (equity)",
+        "Investment Adviser"
+      ],
+      "failed": [],
+      "per_category": {
+        "30": {
+          "matches": [],
+          "no_records": true,
+          "blocked_by_captcha": false,
+          "_run_id": "408389d1-0f22-4a7b-98e8-092ba3219638",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+          "status": "ok",
+          "seconds": 35.2
+        },
+        "13": {
+          "matches": [],
+          "no_records": true,
+          "blocked_by_captcha": false,
+          "_run_id": "9cd92cbe-49af-4f57-ac40-bd4ec7158b9f",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13",
+          "status": "ok",
+          "seconds": 34.3
+        }
+      },
+      "matches": [],
+      "found": false,
+      "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+      "status": "ok",
+      "seconds": 69.6
+    }
+  }
+}

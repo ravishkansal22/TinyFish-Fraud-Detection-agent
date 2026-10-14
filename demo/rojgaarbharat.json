@@ -1,0 +1,153 @@
+{
+  "name": "Rojgaar Bharat",
+  "url": "https://rojgaarbharat.com/",
+  "url_found_by_search": false,
+  "risk": 44,
+  "verdict": "🟡 UNVERIFIED: be careful",
+  "evidence": [
+    {
+      "severity": "🟢",
+      "check": "RBI Alert List",
+      "finding": "Not on RBI Alert List (95 entries checked)",
+      "points": 0,
+      "source": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235"
+    },
+    {
+      "severity": "🟡",
+      "check": "SEBI registry",
+      "finding": "Not found among SEBI-registered Stock Broker (equity) / Investment Advisers",
+      "points": 15,
+      "source": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30"
+    },
+    {
+      "severity": "🟡",
+      "check": "Site inspection",
+      "finding": "Could not verify (check failed or timed out)",
+      "points": 5,
+      "source": ""
+    },
+    {
+      "severity": "🟢",
+      "check": "Domain age (WHOIS)",
+      "finding": "Domain is 5 years old (registered 2021-08-30)",
+      "points": 0,
+      "source": "https://rdap.org/domain/rojgaarbharat.com"
+    },
+    {
+      "severity": "🔴",
+      "check": "Fraud reports",
+      "finding": "3 fraud/complaint mentions found online",
+      "points": 24,
+      "source": "https://pcldemo.wixstudio.com/uptrust/job-scam-listings-1/-rojgaar-bharat"
+    }
+  ],
+  "reports": [
+    {
+      "title": "Rojgaar Bharat",
+      "url": "https://pcldemo.wixstudio.com/uptrust/job-scam-listings-1/-rojgaar-bharat",
+      "snippet": "Its a scam. I paid for their special typing project. What is shown in the plan is all false. They send only 50 documents and many are repeated one.",
+      "site": "pcldemo.wixstudio.com",
+      "date": null
+    },
+    {
+      "title": "Is rojgaarbharat.com a legit site or a scam?",
+      "url": "https://www.quora.com/Is-rojgaarbharat-com-a-legit-site-or-a-scam",
+      "snippet": "Is rojgaarbharat.com a legit site or a scam?",
+      "site": "www.quora.com",
+      "date": "5 years ago"
+    },
+    {
+      "title": "Complaint Against Rojgaar Bharat Fraud | PDF",
+      "url": "https://www.scribd.com/document/985500096/Cybercrime-Complaint",
+      "snippet": "Complaint Regarding Online Job Fraud by 'Rojgaar Bharat'. To, The Cyber Crime Cell / Officer-in-Charge, [Your Police Station Name], [Your City, State].",
+      "site": "www.scribd.com",
+      "date": null
+    }
+  ],
+  "seconds": 200.0,
+  "checked_at": "2026-10-14T19:01:02",
+  "raw": {
+    "resolve": null,
+    "site": {
+      "status": "error",
+      "error": "no website found"
+    },
+    "reports": {
+      "reports": [
+        {
+          "title": "Rojgaar Bharat",
+          "url": "https://pcldemo.wixstudio.com/uptrust/job-scam-listings-1/-rojgaar-bharat",
+          "snippet": "Its a scam. I paid for their special typing project. What is shown in the plan is all false. They send only 50 documents and many are repeated one.",
+          "site": "pcldemo.wixstudio.com",
+          "date": null
+        },
+        {
+          "title": "Is rojgaarbharat.com a legit site or a scam?",
+          "url": "https://www.quora.com/Is-rojgaarbharat-com-a-legit-site-or-a-scam",
+          "snippet": "Is rojgaarbharat.com a legit site or a scam?",
+          "site": "www.quora.com",
+          "date": "5 years ago"
+        },
+        {
+          "title": "Complaint Against Rojgaar Bharat Fraud | PDF",
+          "url": "https://www.scribd.com/document/985500096/Cybercrime-Complaint",
+          "snippet": "Complaint Regarding Online Job Fraud by 'Rojgaar Bharat'. To, The Cyber Crime Cell / Officer-in-Charge, [Your Police Station Name], [Your City, State].",
+          "site": "www.scribd.com",
+          "date": null
+        }
+      ],
+      "status": "ok",
+      "seconds": 2.3
+    },
+    "whois": {
+      "domain": "rojgaarbharat.com",
+      "days": 1871,
+      "created": "2021-08-30",
+      "source": "https://rdap.org/domain/rojgaarbharat.com",
+      "status": "ok",
+      "seconds": 2.3
+    },
+    "rbi": {
+      "listed": false,
+      "matches": [],
+      "entries": 95,
+      "page_url": "https://rbi.org.in/scripts/bs_viewcontent.aspx?Id=4235",
+      "found_via": "search",
+      "status": "ok",
+      "seconds": 2.5
+    },
+    "sebi": {
+      "term": "rojgaar",
+      "searched": [
+        "Stock Broker (equity)",
+        "Investment Adviser"
+      ],
+      "failed": [],
+      "per_category": {
+        "30": {
+          "matches": [],
+          "no_records": true,
+          "blocked_by_captcha": false,
+          "_run_id": "ffb1cb7e-e945-46bc-85d1-78d8cd5e2d3a",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+          "status": "ok",
+          "seconds": 126.5
+        },
+        "13": {
+          "matches": [],
+          "no_records": true,
+          "blocked_by_captcha": false,
+          "_run_id": "acfb7902-d8ca-42f8-8628-6880209e956c",
+          "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13",
+          "status": "ok",
+          "seconds": 64.6
+        }
+      },
+      "matches": [],
+      "found": false,
+      "page_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=30",
+      "status": "ok",
+      "seconds": 191.2
+    }
+  }
+}
